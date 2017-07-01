@@ -1,6 +1,5 @@
 /*
- * CN Project : 201412077[Jignesh] 
- *       		201412063[Jagdish]
+ * CN Project : Devloped By Jignesh 
  */
 import java.awt.Component;
 import java.awt.Container;
@@ -35,7 +34,7 @@ implements Runnable {
     @Override
     public void run() {
         try {
-            JFrame f = new JFrame("Thambola Server");
+            JFrame f = new JFrame("Thambola v1.0 - Server");
             ServerSocket ssocket = new ServerSocket(this.portn);
             Container c = this.getContentPane();
             f.add(c);
