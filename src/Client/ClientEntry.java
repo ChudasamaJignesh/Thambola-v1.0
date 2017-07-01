@@ -1,5 +1,5 @@
 /*
- * Decompiled with CFR 0_110.
+ * CN Project : Devloped By Jignesh 
  */
 import java.awt.Component;
 import java.awt.Container;
@@ -24,7 +24,7 @@ extends JFrame {
     JButton jb = new JButton("Connect");
 
     public ClientEntry() {
-        super("Thambola v1.0");
+        super("Thambola v1.0 - Client");
         Container c = this.getContentPane();
         c.setLayout(new FlowLayout(1));
         this.lbl1 = new JLabel("Port");
