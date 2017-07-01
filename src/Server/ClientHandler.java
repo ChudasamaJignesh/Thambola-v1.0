@@ -1,12 +1,8 @@
 /*
- * Decompiled with CFR 0_110.
+ * CN Project : Devloped By Jignesh 
  */
 import java.awt.Container;
 import java.io.InputStream;
-/*
- * CN Project : 201412077[Jignesh] 
- *       		201412063[Jagdish]
- */
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
