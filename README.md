@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-### Java Network Project: Housie Game aka Thambola <br />
+### Java Network Project: Housie Game aka "Thambola" <br />
 It is Old time favorite Housie game also known as Thambola. This Game is for 2-Player and it is part of my Network Project. <br />
 Multithread Networking Concept with good Gui. <br />
 
@@ -19,9 +19,9 @@ Multithread Networking Concept with good Gui. <br />
 
 ## Final Output
 
-1. Go [here](https://github.com/Jignesh-81726/Thambola-v1.0/blob/master/Thambola%20v1.0.jpg)and [here](https://github.com/Jignesh-81726/Thambola-v1.0/blob/master/1%20Thambola%20v1.0.jpg) for the Output Image. It will take you to the Final Output, which should look like this: ![if you see this, it means you probably need to right-click this to open the image in a new tab](../master/Thambola%20v1.0.jpg)
+1. Go [here](https://github.com/Jignesh-81726/Thambola-v1.0/blob/master/Thambola%20v1.0.jpg) and [here](https://github.com/Jignesh-81726/Thambola-v1.0/blob/master/1%20Thambola%20v1.0.jpg) for the Output Image. It will take you to the Final Output, which should look like this: ![if you see this, it means you probably need to right-click this to open the image in a new tab](../master/Thambola%20v1.0.jpg)
 ![if you see this, it means you probably need to right-click this to open the image in a new tab](../master/1%20Thambola%20v1.0.jpg)
-2. Enjoy!
+ Enjoy!
 
 ## Working on code
 
