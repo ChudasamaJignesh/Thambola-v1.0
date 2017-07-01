@@ -1,6 +1,5 @@
 /*
- * CN Project : 201412077[Jignesh] 
- *       		201412063[Jagdish]
+ * CN Project : Devloped By Jignesh 
  */
 import java.awt.Component;
 import java.awt.Container;
@@ -62,4 +61,3 @@ extends JFrame {
     }
 
 }
-
